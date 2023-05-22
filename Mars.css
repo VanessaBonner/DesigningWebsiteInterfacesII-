@@ -1,0 +1,25 @@
+/*This is the CSS file for the Mars PHP file.*/
+body {
+    background-color: rgb(135, 11, 185); /*This will 34*/
+    color: whitesmoke;
+    word-spacing: normal;
+    align-items: center;
+    text-align: center;
+    
+}
+/*This is the CSS for the header.*/
+h1 {
+    color: rgb(255, 255, 255);
+    background-color: rgb(236, 214, 214);
+    font-family: 'Times New Roman', Times, serif;
+    font-size:large;
+    text-align: center;
+}
+/*This is the CSS for the paragraph.*/
+p1 {
+    color: rgb(244, 118, 118);
+    background-color: rgb(250, 126, 126);
+    font-family: 'Times New Roman', Times, serif;
+    font-size:large;
+    text-align: center;
+}
