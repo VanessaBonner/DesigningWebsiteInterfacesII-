@@ -1,0 +1,44 @@
+/*This file is for the Index PHP file that has all of the background images.*/
+body {
+    background-image: url("photo1.jpg");
+    background-size: cover;
+    background-repeat: no-repeat;
+    background-position: center;
+    background-attachment: fixed;
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+h1 {
+    text-align: center;
+    padding-top: 10px;
+    border: 2px solid rgb(152, 199, 232);
+}
+
+form {
+    width: 300px;
+    border-radius: 5px;
+    margin: 0 auto;
+    background-color: rgb(205, 211, 218);
+}
+
+label {
+    margin-bottom: 5px;
+}
+
+input {
+    border: 1px solid rgb(67, 66, 66);
+    padding: 10px;
+    border-radius: 2px;
+} 
+
+.row {
+    padding-bottom: 10px;
+}
+
+.error {
+    color: red;
+}
+
+input[type="submit"]:hover {
+    outline: none;
+}
