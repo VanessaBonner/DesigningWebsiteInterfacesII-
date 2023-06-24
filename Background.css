@@ -1,0 +1,46 @@
+/*This is the Background CSS file for the PHP website.*/
+/*The Countdown css*/
+.countdown {
+    width: 250px;
+    height: 205px;
+    margin: 0 auto;
+    text-align: center;
+}
+
+/*To center the images I used*/
+.center {
+    display: flex;
+    margin-left: auto;
+    margin-right: auto;
+    width: 800px;
+   margin-top: auto;
+}
+
+/*Framing of the body and what it will look like*/
+body {
+    background-color: rgb(167, 137, 187);
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+    font-size: 20px;
+    word-spacing: normal;
+}
+
+/*For the header 1 tags to make it look better*/
+h1 {
+    text-align: center;
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+    font-size: 40px;
+    margin-top: 0;
+    padding-top: 20px;
+    color: rgb(255, 255, 255);
+}
+
+/*For the header 2 tags to make it look better*/
+h2 {
+    text-align: center;
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+    font-size: 30px;
+    margin-top: 0;
+    padding-top: 20px;
+    color: rgb(255, 255, 255);
+}
+
